@@ -1,0 +1,41 @@
+{
+    "contactos":
+    [
+        {
+            "nombre" : "Pepe",
+            "direccion" : "Malaga, 29190",
+            "email" : "pepe@mail.com",
+            "telefono" : 
+            {
+                "casa" : "952232323",
+                "movil" : "666333444",
+                "trabajo" : "633344995"
+            }
+        },
+
+        {
+            "nombre" : "Juan",
+            "direccion" : "Cadiz, 26190",
+            "email" : "juan@mail.com",
+            "telefono" : 
+            {
+                "casa" : "952232424",
+                "movil" : "666333666",
+                "trabajo" : "633344886"
+            }
+        },
+
+        {
+            "nombre" : "Laura",
+            "direccion" : "Jaen, 23190",
+            "email" : "laura@mail.com",
+            "telefono" : 
+            {
+                "casa" : "952232828",
+                "movil" : "666333888",
+                "trabajo" : "633344998"
+            }
+        }
+        
+    ]
+}
